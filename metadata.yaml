@@ -1,0 +1,29 @@
+_repo: Two-Fishers-and-Other-Poems_35780
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palmer, Herbert E. (Herbert Edward)
+    alias: Palmer, Herbert Edward
+    birthdate: 1880
+    deathdate: 1961
+    gutenberg_agent_id: '37899'
+    url: http://www.gutenberg.org/2009/agents/37899
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Edward_Palmer
+description: ''
+gutenberg_issued: '2011-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35780'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: Two Fishers, and Other Poems
+url: http://www.gutenberg.org/ebooks/35780
