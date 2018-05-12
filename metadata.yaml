@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37899
     wikipedia: http://en.wikipedia.org/wiki/Herbert_Edward_Palmer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35780#Two-Fishers-and-Other-Poems
 gutenberg_issued: '2011-04-06'
 gutenberg_type: Text
 identifiers:
